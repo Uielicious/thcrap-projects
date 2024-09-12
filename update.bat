@@ -1,0 +1,1 @@
+python ..\..\bin\scripts\repo_update.py
