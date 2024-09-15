@@ -1,8 +1,8 @@
 {
 	"contact": "Discord @Uielicious",
-	"id": "uielicious",
+	"id": "Uielicious",
 	"patches": {
-		"patched_versions": "Patched Versions.js",
+		"patched_versions": "Adds entries to Versions.js for some patched .exes I've found (th06, th15)",
 		"story_mode": "(th08) Removes 1cc requirement for Good Endings, also enables Continues in th08 Stage 6B"
 	},
 	"servers": [

@@ -7,5 +7,5 @@
 		"https://mirrors.thpatch.net/Uielicious/patched_versions/",
 		"https://raw.githubusercontent.com/Uielicious/uies-thcrap-projects/master/patched_versions/"
 	],
-	"title": "Patched Versions.js"
+	"title": "Adds entries to Versions.js for some patched .exes I've found (th06, th15)"
 }
