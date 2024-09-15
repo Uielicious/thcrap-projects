@@ -1,20 +1,4 @@
 {
-	"end00a.end": null,
-	"end00a.end.jdiff": null,
-	"end01a.end": null,
-	"end01a.end.jdiff": null,
-	"end02a.end": null,
-	"end02a.end.jdiff": null,
-	"end03a.end": null,
-	"end03a.end.jdiff": null,
 	"patch.js": 3877821268,
-	"th08.v1.00d.js": 3064065657,
-	"th08/end00a.end": null,
-	"th08/end00a.end.jdiff": null,
-	"th08/end01a.end": null,
-	"th08/end01a.end.jdiff": null,
-	"th08/end02a.end": null,
-	"th08/end02a.end.jdiff": null,
-	"th08/end03a.end": null,
-	"th08/end03a.end.jdiff": null
+	"th08.v1.00d.js": 3064065657
 }
