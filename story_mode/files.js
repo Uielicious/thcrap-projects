@@ -1,4 +1,22 @@
 {
 	"patch.js": 3877821268,
-	"th08.v1.00d.js": 3064065657
+	"th06.v1.02h.js": 1672320248,
+	"th06/end00b.end.jdiff": 601082150,
+	"th06/end10b.end.jdiff": 601082150,
+	"th07.v1.00b.js": 1347693017,
+	"th07/end00b.end.jdiff": 55271943,
+	"th07/end10b.end.jdiff": 1996127857,
+	"th07/end20b.end.jdiff": 798770714,
+	"th08.v1.00d.js": 779309405,
+	"th08/end00b.end.jdiff": 764045172,
+	"th08/end01b.end.jdiff": 1949816966,
+	"th08/end02b.end.jdiff": 4107647373,
+	"th08/end03b.end.jdiff": 1364193455,
+	"th10.v1.00a.js": 1770757099,
+	"th10/e00.msg.jdiff": 2758435040,
+	"th10/e01.msg.jdiff": 2758435040,
+	"th10/e02.msg.jdiff": 2288286649,
+	"th10/e03.msg.jdiff": 2145818554,
+	"th10/e04.msg.jdiff": 2145818554,
+	"th10/e05.msg.jdiff": 2145818554
 }
