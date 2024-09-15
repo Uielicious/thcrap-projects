@@ -4,8 +4,8 @@
 	],
 	"id": "story_mode",
 	"servers": [
-		"https://mirrors.thpatch.net/uielicious/story_mode/",
+		"https://mirrors.thpatch.net/Uielicious/story_mode/",
 		"https://raw.githubusercontent.com/Uielicious/uies-thcrap-projects/master/story_mode/"
 	],
-	"title": "Touhou Story Mode"
+	"title": "(th08) Removes 1cc requirement for Good Endings, also enables Continues in th08 Stage 6B"
 }
