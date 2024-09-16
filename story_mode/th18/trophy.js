@@ -41,9 +41,9 @@
         "*Press the OK button to watch the ending"
     ],
     "8": "Reimu Bad Ending",
-    "8_0": "Clear the game with Reimu and continues",
+    "8_0": "Clear the game with Reimu on Easy",
     "8_1": [
-        "Cleared the game with Reimu and continues",
+        "Cleared the game with Reimu on Easy",
         "* Press the OK button to watch the ending"
     ],
     "0_0": "See Reimu's alternate ending",
@@ -54,21 +54,21 @@
     "6_0": "See Sanae's alternate ending",
     "7_0": "See Sanae's ending",
     "9": "Marisa Bad Ending",
-    "9_0": "Clear the game with Marisa and continues",
+    "9_0": "Clear the game with Marisa on Easy",
     "9_1": [
-        "Cleared the game with Marisa and continues",
+        "Cleared the game with Marisa on Easy",
         "* Press the OK button to watch the ending"
     ],
     "10": "Sakuya Bad Ending",
-    "10_0": "Clear the game with Sakuya and continues",
+    "10_0": "Clear the game with Sakuya on Easy",
     "10_1": [
-        "Cleared the game with Sakuya and continues",
+        "Cleared the game with Sakuya on Easy",
         "* Press the OK button to watch the ending"
     ],
     "11": "Sanae Bad Ending",
-    "11_0": "Clear the game with Sanae and continues",
+    "11_0": "Clear the game with Sanae on Easy",
     "11_1": [
-        "Cleared the game with Sanae and continues",
+        "Cleared the game with Sanae on Easy",
         "* Press the OK button to watch the ending"
     ],
     "12": "Cleared Reimu Extra Stage",

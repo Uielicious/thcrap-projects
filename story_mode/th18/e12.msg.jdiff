@@ -1,58 +1,8 @@
 {
     "0": {
-        "0_0": {
-            "lines": [
-                "<ts$Aya  >The Youkai Mountain."
-            ]
-        },
-        "1_0": {
-            "lines": [
-                "The tallest mountain in Gensokyo."
-            ]
-        },
-        "2_0": {
-            "lines": [
-                "Dominated by the youkai, headed by the tengu."
-            ]
-        },
-        "3_0": {
-            "lines": [
-                "<r$Aya  >\"Extra--! Extra--!"
-            ]
-        },
-        "4_0": {
-            "lines": [
-                "<l$> A human was stranded on the Youkai Mountain!\""
-            ]
-        },
-        "5_0": {
-            "lines": [
-                "<r$Aya  >It was Sanae Kochiya from the Moriya Shrine--!"
-            ]
-        },
-        "6_0": {
-            "lines": [
-                "<l$> She was stranded due to sustaining too many wounds from danmaku--!"
-            ]
-        },
-        "7_0": {
-            "lines": [
-                "<l$> Was this the work of some youkai who aren't satisfied with how the Moriya Shrine does things?\""
-            ]
-        },
-        "8_0": {
-            "lines": [
-                "Sanae was carried to the Moriya Shrine by the tengu, while they laughed at her."
-            ]
-        },
-        "9_0": {
-            "lines": [
-                "There's nothing more embarrassing than this."
-            ]
-        },
         "10_0": {
             "lines": [
-                "Bad Ending No. 12 Aim for a No Continue Clear!"
+                "Bad Ending No. 12 Aim for a Normal Clear or higher!"
             ]
         }
     }
