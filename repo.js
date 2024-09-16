@@ -3,7 +3,7 @@
 	"id": "Uielicious",
 	"patches": {
 		"eosd_practice_replay": "(th06) Enables saving replays during Practice Mode, like PCB+",
-		"story_mode": "(th06-08,10-12) Removes 1cc requirement for Good Endings, also enables Continues in th08 Stage 6B"
+		"story_mode": "(th06-08,10-18,12.8) Achieve Good Endings on Normal and above, and Bad Endings on Easy, regardless of if you use continues. Convenient for plaything through the games for the story."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/Uielicious/",

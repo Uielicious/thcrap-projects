@@ -7,5 +7,5 @@
 		"https://mirrors.thpatch.net/Uielicious/story_mode/",
 		"https://raw.githubusercontent.com/Uielicious/uies-thcrap-projects/master/story_mode/"
 	],
-	"title": "(th06-08,10-12,12.8,13) Removes 1cc requirement for Good Endings, also enables Continues in th08 Stage 6B"
+	"title": "(th06-08,10-18,12.8) Achieve Good Endings on Normal and above, and Bad Endings on Easy, regardless of if you use continues. Convenient for plaything through the games for the story."
 }
