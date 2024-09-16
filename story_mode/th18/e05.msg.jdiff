@@ -1,0 +1,216 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Chimata  $Sakuya  >The Lunar Rainbow Market."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A sky that belongs to no one."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Tonight too a rainbow shines unusually across the moon."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Chimata  >\"...huh?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> You want me to open the market?\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sakuya  >\"Indeed.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Chimata  >\"Hahaha, well, of course."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> I'd open it even if you didn't tell me to. When the time comes, that is."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> But why now?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Sakuya  >\"Our resident witch has finished her analysis of the ability cards,"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> and reached the conclusion that they aren't dangerous."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> Therefore, you won't hear anything from us again.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Chimata  >\"Is that so? And you're sure that analysis is correct?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Sakuya  >\"Well, I'd rather trust one of our own researches rather than an outsider's words,"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> but this and that are... separate issues."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> Something else has happened.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Chimata  >\"I see, I see... and what would that be?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Sakuya  >\"My lady became interested in the research results..."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> And she would like to take a look at this so called market of yours.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Chimata  >\"Well if that's the case, she's always welcome!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> But?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Sakuya  >\"And that's where the main issue arises,"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> my lady is extremely weak to both rain and sunlight..."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$> So going to somewhere with a rainbow is rather difficult on her.\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Chimata  >\"Weak to rain AND sunlight, you say?",
+                "<l$> Well, that must be a tough life.\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Sakuya  >\"And so, I would like to request that",
+                "<l$> you hold the market at the Scarlet Devil Mansion."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> Indoors that is.\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Chimata  >\"......"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> Okay, okay, that's no problem."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<l$> We can't have a rainbow indoors,",
+                "<l$> but I can open the market under conditions other than rainbows as well.\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Sakuya  >\"...such as?\""
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Chimata  >\"As long as some other special event occurs, the market can take place."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<l$> Like a meteor impact, or a volcanic eruption..."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<l$> Well, just look for rare and special things at your home.\""
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "A few days later, the market was held at the Scarlet Devil Mansion,",
+                "which had had its walls and ceilings painted rainbow."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Seeing the eccentric and brilliantly colored building,",
+                "many guests visited the market."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Being able to see the market, Remilia was satisfied."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "In addition, Patchouli was satisfied as well."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "After all, she was able to determine the conditions",
+                "under which the marketplace god can hold her markets."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<c$Ending No. 05 — Rainbow Devil Mansion$>"
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$No Continue Clear!$>"
+            ]
+        }
+    }
+}
