@@ -1,5 +1,5 @@
 {
-	"patch.js": 337831434,
+	"patch.js": 2024464321,
 	"th06.v1.02h.js": 1672320248,
 	"th06/end00b.end.jdiff": 601082150,
 	"th06/end10b.end.jdiff": 601082150,
@@ -18,5 +18,12 @@
 	"th10/e02.msg.jdiff": 2288286649,
 	"th10/e03.msg.jdiff": 2145818554,
 	"th10/e04.msg.jdiff": 2145818554,
-	"th10/e05.msg.jdiff": 2145818554
+	"th10/e05.msg.jdiff": 2145818554,
+	"th11.v1.00a.js": 4149793837,
+	"th11/e00.msg.jdiff": 1501369183,
+	"th11/e01.msg.jdiff": 1970472966,
+	"th11/e02.msg.jdiff": 1970472966,
+	"th11/e03.msg.jdiff": 535912008,
+	"th11/e04.msg.jdiff": 535912008,
+	"th11/e05.msg.jdiff": 535912008
 }
