@@ -7,5 +7,5 @@
 		"https://mirrors.thpatch.net/Uielicious/always_poc/",
 		"https://raw.githubusercontent.com/Uielicious/uies-thcrap-projects/master/always_poc/"
 	],
-	"title": "Enables the Point of Collection line in th06, even when not at Full Power"
+	"title": "(th06-08) removes Max Power requirements for the PoC line, in line with the newer games"
 }
