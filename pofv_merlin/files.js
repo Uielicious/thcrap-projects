@@ -115,7 +115,7 @@
 	"th09/pl06.ecl": 2079789618,
 	"th09/pl06.msg.jdiff": 2850650882,
 	"th09/pl06.sht": 294032543,
-	"th09/pl06_match.msg.jdiff": 3644380972,
+	"th09/pl06_match.msg.jdiff": 2646339933,
 	"th09/pl14.ecl": 4163832689,
 	"th09/pl14.sht": 707983307,
 	"th09/pl14_match.msg.jdiff": 212401714
