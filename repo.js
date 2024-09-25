@@ -1,6 +1,6 @@
 {
 	"contact": "Email: uielicious@gmail.com | Discord @Uielicious",
-	"id": "Uielicious",
+	"id": "Uielicious-testing",
 	"patches": {
 		"always_poc": "(th06-08) removes Max Power requirements for the PoC line, in line with the newer games",
 		"eosd_practice_replay": "(th06) Enables saving replays during Practice Mode, like PCB+",

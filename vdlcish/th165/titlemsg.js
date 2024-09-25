@@ -4,12 +4,12 @@
         "IDK, but they look totally radical, and that's all that matters."
     ],
     "20_2": [
-        "Minesweeper? I think?",
-        "What even are these dream folk doing anymore?"
-    ],
-    "20_3": [
         "Those two again. It's like one cannot be without the other.",
         "Maybe they can only be together because they're weak on their own."
+    ],
+    "20_3": [
+        "Minesweeper? I think?",
+        "What even are these dream folk doing anymore?"
     ],
     "20_4": [
         "She like the reverse of things, so instead of shooting down her spells,",
