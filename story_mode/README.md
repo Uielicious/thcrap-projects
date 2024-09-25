@@ -7,7 +7,6 @@ This patch modifies the triggers for ending scenes in each Touhou game, generall
 
 # Game-specific Details
 th08: Bad Endings are achieved by letting the timer reach 5AM. Because of this, Normal and Good Endings can be gotten on Easy.
-
 Stage 6B now allows the player to Continue if they Game Over, unless the time reaches 5AM.
 
 th12.8: Beating a route will always result in an ending, even if Continues are used.
