@@ -11,7 +11,7 @@
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/Uielicious/",
-		"https://raw.githubusercontent.com/Uielicious/uies-thcrap-projects/testing/"
+		"https://raw.githubusercontent.com/Uielicious/thcrap-projects/testing/"
 	],
 	"title": "Uielicious Patch Shack"
 }
