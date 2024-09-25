@@ -4,6 +4,8 @@
 	"patches": {
 		"always_poc": "(th06-08) removes Max Power requirements for the PoC line, in line with the newer games",
 		"eosd_practice_replay": "(th06) Enables saving replays during Practice Mode, like PCB+",
+		"pofv_lunasa": "(th09) Replaces Lyrica's slot with Lunasa for Story Mode, including a new script.",
+		"pofv_merlin": "(th09) Replaces Lyrica's slot with Merlin for Story Mode, including a new script.",
 		"story_mode": "(th06-08,10-18,12.8) Achieve Good Endings on Normal and above, and Bad Endings on Easy, regardless of if you use continues. Convenient for plaything through the games for the story."
 	},
 	"servers": [
