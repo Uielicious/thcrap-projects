@@ -1,5 +1,5 @@
 {
-	"contact": "Discord @Uielicious",
+	"contact": "Email: uielicious@gmail.com | Discord: @Uielicious",
 	"id": "Uielicious",
 	"patches": {
 		"always_poc": "(th06-08) removes Max Power requirements for the PoC line, in line with the newer games",
@@ -8,7 +8,7 @@
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/Uielicious/",
-		"https://raw.githubusercontent.com/Uielicious/uies-thcrap-projects/master/"
+		"https://raw.githubusercontent.com/Uielicious/thcrap-projects/master/"
 	],
 	"title": "Uielicious Patch Shack"
 }
