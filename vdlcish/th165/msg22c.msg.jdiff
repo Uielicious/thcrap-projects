@@ -1,0 +1,129 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "So, I'm... a resident of the Dream World?",
+				"I just can't believe..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That we've been switched for three weeks?",
+				"It's not that hard to believe."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+				"Yes...",
+                "It's all coming back to me..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You're right, I <b$must> be the Dream World's Sumireko..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Alright, now give back my body!",
+				"After all, I say this again..."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "What the...",
+                "What are these psychic powers!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The power to live even through death?",
+                "And the power to erase bullets with a camera..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I can't do that!",
+                "What exactly <b$is> a dream dweller?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Well, you see...",
+                "This power was given to me by another dream dweller."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Though, if she were to be here, she could liberate me."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...That's all I need to know.",
+				"For you see,"
+            ]
+        },
+        "82_0": {
+            "lines": [
+			"This was all a distraction! Yes of course!",
+            "I'm certain Doremy is calling that special somebody right now!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "You're busted!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "I have allies!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "All those dream dwellers who've been jealous of you",
+                "for getting out of the dream are my allies!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+				"|\tWhile \t,\tDoremy aided\t,and someone else she mentioned",
+                "While Doremy aided in trying to stop you this week,",
+				"We just couldn't let this stand anymore!"
+            ]
+        },
+	    "58_0": {
+            "lines": [
+                "We may be few, but I'm sure we can get me back to reality!",
+                "Your fun ends here! Tonight, the nightmare ends!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Heh heh heh, after all that trouble to get this body.",
+				"I'm not surrendering to only two measly foes!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "From now on,",
+                "<b$I'm> Sumireko Usami, the ultimate high school girl!"
+            ]
+        }
+    }
+}
