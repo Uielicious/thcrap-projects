@@ -10,7 +10,6 @@
 		"vdlcish": "Personal-use restructuring of Agnostic Friday in VDR. Should only be viewable in my testing branch, so if you see this... Oops."
 	},
 	"servers": [
-		"https://mirrors.thpatch.net/Uielicious/",
 		"https://raw.githubusercontent.com/Uielicious/thcrap-projects/testing/"
 	],
 	"title": "Uielicious Patch Shack"
