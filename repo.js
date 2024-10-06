@@ -4,7 +4,8 @@
 	"patches": {
 		"always_poc": "(th06-08) removes Max Power requirements for the PoC line, in line with the newer games",
 		"eosd_practice_replay": "(th06) Enables saving replays during Practice Mode, like PCB+",
-		"eosd_vocal": "(th06) Replaces Septette for the Dead Princess with a vocal arrangement by けんしん",
+		"guiltyflower": "Replaces the starting text for Touhou 9: PoFV to mimick Guilty Gear",
+		"jk_eosd_vocal": "(th06) Replaces Septette for the Dead Princess with a vocal arrangement by けんしん (This is a joke patch)",
 		"pofv_lunasa": "(th09) Replaces Lyrica's slot with Lunasa for Story Mode, including a new script.",
 		"pofv_merlin": "(th09) Replaces Lyrica's slot with Merlin for Story Mode, including a new script.",
 		"story_mode": "(th06-08,10-18,12.8) Achieve Good Endings on Normal and above, and Bad Endings on Easy, regardless of if you use continues. Convenient for plaything through the games for the story.",
