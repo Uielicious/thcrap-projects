@@ -10,7 +10,7 @@
 			"enable": true,
 			"addr": "Rx192FF",
 			"code": "\
-83 3D B8574A00 00  \
+83 3D B4574A00 00  \
 75 09 \
 ",
 			"expected": "\
