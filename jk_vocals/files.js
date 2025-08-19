@@ -1,7 +1,7 @@
 {
-	"Hier kommt Remilia.wav": 2146557672,
-	"lyrics.txt": 4013604126,
-	"patch.js": 695657050,
+	"Hier kommt Remilia.wav": 2434733193,
+	"lyrics.txt": 788324993,
+	"patch.js": 1360065074,
 	"th06/musiccmt.js": 2189715046,
 	"th06/spells.js": 1857756166,
 	"th06/spells_en.js": 56269597,
